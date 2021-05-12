@@ -13,7 +13,7 @@ namespace _2904Project
     {
         public IWebDriver _webDriver;
         private static readonly By _changeGeneralInfIconLocator = By.CssSelector("nb-account-info-general-information .edit-switcher__icon_type_edit");
-        private static readonly By _generalInfoLocator = By.CssSelector()
+        
 
         public MakeChangesPage(IWebDriver driver)
         {
