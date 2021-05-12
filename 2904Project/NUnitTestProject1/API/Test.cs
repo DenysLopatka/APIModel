@@ -12,7 +12,7 @@ namespace NUnitTestProject1.API
         [Test]
         public void asdasd()
         {
-
+            var code = 
         }
     }
 }
